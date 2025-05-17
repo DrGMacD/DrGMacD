@@ -4,7 +4,7 @@
 
 <p align="center">Research interests include complex genetic diseases and application of small molecules and gene therapies.</p>
 
-###
+### Skills:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -41,6 +41,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /><a href="[https://www.linkedin.com/in/nasiullha-chaudhari/](https://www.linkedin.com/in/gabriella-macdougall-pytte/)" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
 </div>
