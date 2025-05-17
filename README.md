@@ -30,22 +30,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
 </div>
 
+
+### 
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
+</div>
+
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
 </div>
