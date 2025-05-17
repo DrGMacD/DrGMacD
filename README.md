@@ -4,7 +4,7 @@
 
 <p align="center">Research interests include complex genetic diseases and application of small molecules and gene therapies.</p>
 
-## Skills:
+##### Skills:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
