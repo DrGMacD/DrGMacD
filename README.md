@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! I'm Gabriella - a passionate neuroscientist working on genetic diseases</h2>
+<h2 align="center">Hi 👋! I'm Gabriella - a neuroscientist working on genetic diseases</h2>
+
+###
+
+<p align="center">Research interests include complex genetic diseases and application of small molecules and gene therapies.</p>
 
 ###
 
@@ -35,10 +39,21 @@
 
 ###
 
+<div align="left">
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF.gif"  />
+  <img height="150" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
