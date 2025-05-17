@@ -35,7 +35,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
+  <img height="200" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
 </div>
 
 ###
