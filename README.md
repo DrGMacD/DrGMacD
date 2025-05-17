@@ -10,7 +10,9 @@
   <img height="250" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
 </div>
 
-##### Skills and competencies:
+###
+<p align="center">Skills and competencies:</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="10" />
