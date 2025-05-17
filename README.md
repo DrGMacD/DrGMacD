@@ -4,12 +4,14 @@
 
 <p align="center">Research interests include complex genetic diseases and application of small molecules and gene therapies.</p>
 
-###
+
+### 
+<br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /><a href="[https://www.linkedin.com/in/nasiullha-chaudhari/](https://www.linkedin.com/in/gabriella-macdougall-pytte/)" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
+  <img height="300" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
 </div>
+
 
 ##### Skills:
 
@@ -38,10 +40,9 @@
 </div>
 
 
-### 
-<br clear="both">
+###
 
 <div align="center">
-  <img height="300" src="https://github.com/DrGMacD/DrGMacD/blob/main/GIF2.gif"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /><a href="[https://www.linkedin.com/in/nasiullha-chaudhari/](https://www.linkedin.com/in/gabriella-macdougall-pytte/)" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
 </div>
-
