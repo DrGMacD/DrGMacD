@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-note
+I enjoy learning challenging new skills, especially those that help me help patients.
 ###
 
 <div align="left">
